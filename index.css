@@ -1,0 +1,23 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f8f9fa url('https://png.pngtree.com/background/20220723/original/pngtree-background-biru-keren-dan-kosong-abstract-untuk-template-desain-powerpoint-ppt-picture-image_1738466.jpg') no-repeat center center fixed; 
+    background-size: cover; 
+    color: #343a40;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4 {
+    color: #4CAF50; 
+}
+
+p {
+    font-weight: bold; /* Use 'bold' or a numeric value like 700 for thicker text */
+}
+
+.introduction, .featured-resources, .categories, .about-us, .our-mission, .contact-us {
+    border: 2px solid blue; 
+    padding: 10px; 
+    margin-bottom: 20px;
+}
